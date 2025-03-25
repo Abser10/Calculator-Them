@@ -181,7 +181,7 @@ button#equal {
 }
 
 /*responsive mobile*/
-@media (max-width: 480px) {
+@media (max-width: 270px) {
     .calculator {
         width: 100%;
         padding: 10px;
